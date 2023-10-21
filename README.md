@@ -1,3 +1,3 @@
-# singapore-real-estate
+# Singapore Real Estate
 
 Predicting house prices in Singapore
