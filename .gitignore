@@ -1,0 +1,27 @@
+# Compiled Python files
+*.pyc
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output files
+output/
+results/
+
+# Model files
+models/
+
+# Data files
+data/
+
+# Other generated files
+__pycache__/
+.DS_Store

@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "singapore-real-estate"
+version = "0.1.0"
+description = "A machine learning project to predict real estate prices in Singapore"
+authors = ["Cheng Yong <8086930+chengyongyeo@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+geopandas = "0.14.0"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
